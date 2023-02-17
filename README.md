@@ -1,28 +1,3 @@
-로그인
-![로그인](https://user-images.githubusercontent.com/97869193/219522570-23d19255-1970-4e5e-bf1a-4af7c6ea6ede.gif)
-
-
-로그아웃
-
-![로그아웃](https://user-images.githubusercontent.com/97869193/219521894-7067db4e-4225-455c-9bb5-049272ca46fc.gif)
-
-
-
-라이브
-![라이브 페이지](https://user-images.githubusercontent.com/97869193/219521864-213919ea-9304-45cf-963c-ef2216cb2d6c.gif)
-
-![라이브 페이지 검색](https://user-images.githubusercontent.com/97869193/219523337-ecccfa84-55c8-4377-b344-ebafe677ccca.gif)
-
-랜딩
-![랜딩페이지](https://user-images.githubusercontent.com/97869193/219518756-637886b7-4ee9-4560-9843-4defad431653.gif)
-![랜딩페이지](https://user-images.githubusercontent.com/97869193/219518872-36feaab2-6afb-4d70-ba0e-388b82331500.gif)
-
-
-프로필
-![프로필 페이지](https://user-images.githubusercontent.com/97869193/219518307-b0f99820-355b-45b0-8584-ec9782da7ff2.gif)
-![팔로잉 팔로우 목록](https://user-images.githubusercontent.com/97869193/219520037-66403b24-9d16-4cd8-b522-eb51b0ffcbde.gif)
-![팔로우 팔로잉](https://user-images.githubusercontent.com/97869193/219520341-ea30e19e-68c0-4f95-9ac7-92da58e7bc17.gif)
-![친구 검색](https://user-images.githubusercontent.com/97869193/219520920-9629f81b-d74c-4657-962d-92d0f54f4c75.gif)
 
 
 
@@ -36,4 +11,27 @@
 
 메인룸
 ![메인룸_사진촬영](https://user-images.githubusercontent.com/97869193/219525437-e1e3bdf5-e73e-4d01-8d62-594785934b20.gif)
+![메인룸_사진촬영](https://user-images.githubusercontent.com/97869193/219525437-e1e3bdf5-e73e-4d01-8d62-594785934b20.gif)
+![메인룸_자유주제](https://user-images.githubusercontent.com/97869193/219526714-452a6792-f0a7-4728-8d4f-e51bd5646267.gif)
+
+고요속 외침
+![고요속외침_출제자](https://user-images.githubusercontent.com/97869193/219527788-7f7e4e92-b21a-43d5-b1f2-0f99b637f0f9.gif)
+
+![고요속외침_참가자](https://user-images.githubusercontent.com/97869193/219528157-a3a31c3d-90d7-4684-b019-158065edabd8.gif)
+
+![고요속외침_참가자](https://user-images.githubusercontent.com/97869193/219528247-78ae9bba-3cfa-462e-a308-305d20a5a079.gif)
+
+역전의 한방
+![역전의 한방](https://user-images.githubusercontent.com/97869193/219527966-dbafea69-1d87-4c98-a417-b9d1e7996fcb.gif)
+
+
+인물퀴즈
+
+![인물퀴즈](https://user-images.githubusercontent.com/97869193/219528590-c010c447-9670-4111-a27c-56bfc87ed168.gif)
+
+캐치마인드 참가자
+
+
+![캐치마인드_참가자](https://user-images.githubusercontent.com/97869193/219529615-5f5d63b3-1f87-4045-bd81-ec8c3491f2b3.gif)
+
 
